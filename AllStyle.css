@@ -1,0 +1,79 @@
+﻿/*form header*/
+.homebutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 35px Astrobia;
+    position: absolute;
+    left: 50px;
+}
+
+.imghomebutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    position: absolute;
+    height: 40px;
+}
+
+.signupbutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 25px Gilroy;
+    position: absolute;
+    right: 595px;
+}
+
+.careerbutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 25px Gilroy;
+    position: absolute;
+    right: 470px;
+}
+
+.gallerybutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 25px Gilroy;
+    position: absolute;
+    right: 340px;
+}
+
+.aboutbutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 25px Gilroy;
+    position: absolute;
+    right: 190px;
+}
+
+.contactbutton {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    font: lighter 25px Gilroy;
+    position: absolute;
+    right: 10px;
+}
+/*for footer*/
+.footer {
+    background-color: rgb(32,32,32);
+    box-shadow: rgb(32,32,32) 0px 0px 50px;
+    width: 100%;
+    height: 125px;
+}
+/*general*/
+.titletext {
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    position: relative;
+    top: 350px;
+    font: lighter 80px Gilroy;
+    text-align: center;
+}
